@@ -20,11 +20,11 @@ printf("x2 = %.2f",x2);
 int main()
 {
 int a,b,c;
-printf("NAMA : AHMAD DWIYANTO \n");
-printf("NIM : D400150059 \n");
-printf("Masukkan nilai a : \n");scanf("%d",&a);
-printf("Masukkan nilai b : \n");scanf("%d",&b);
-printf("Masukkan nilai c : \n");scanf("%d",&c);
+printf("NAMA : SADEWA YUDHA PRAYOGA \n");
+printf("NIM  : D400150131 \n");
+printf("Masukkan nilai a : 1 \n");scanf("%d",&a);
+printf("Masukkan nilai b : 2 \n");scanf("%d",&b);
+printf("Masukkan nilai c : 3 \n");scanf("%d",&c);
 AkarKuadrat(a,b,c);
 return 0;
 }
